@@ -3,7 +3,7 @@
 ![JavaScript](https://img.shields.io/badge/language-JavaScript-yellow.svg)
 ![Jest](https://img.shields.io/badge/tested%20with-Jest-red.svg)
 
-**Manage browser storage** using a unified JavaScript interface for working with `localStorage`, `sessionStorage`, and `IndexedDB`. This includes support for key-value management, switching between storage types, error handling, status messaging, Jest-based testing and use of a storage manager and wrappers for each storage type.
+**Manage browser storage** using a unified JavaScript interface for working with `localStorage`, `sessionStorage`, and `IndexedDB`. This includes support for key-value management, switching between storage types, error handling, status messaging, promised-based storage wrappers, jQuery UI logic using async/await and event handling, Jest-based testing and use of a storage manager and wrappers for each storage type.
 
 ---
 
